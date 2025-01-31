@@ -1,0 +1,45 @@
+
+
+body{
+    background: grey;
+}
+
+.post {
+    background: white;
+    border-radius: 10px;
+    margin: auto;
+    width: 500px;
+    height: 650px;
+
+}
+.header1{
+    width: 500px; height: 50px;
+    display: flex;
+}
+.content1{
+    width: 520px;
+    height: 400px;
+    margin-left: 3px;
+    
+}
+.comments1{
+    flex: auto;
+    padding-top: 3px;
+    margin-left: 4px;
+    margin-top: 15px;
+}
+.logo{
+    font-size: 36px;
+}
+.right{
+    float: right;
+}
+.username{
+    
+}
+p {
+   margin: auto; 
+}
+.icons {
+    font-size: 40px;
+}
